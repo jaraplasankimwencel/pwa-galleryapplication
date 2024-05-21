@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Kim Wencel E. Jaraplasan",
+      "username": "Kim Wencel",
+      "details": "I am 21 years old and a third-year student at Laguna State Polytechnic University. I am now pursuing a Bachelor of Science in Information Technology with a major in Web and Mobile Application Development.",
+      "phone number": "0994 000 0000",
+      "email": "0321-2981@lspu.edu.ph",
+
+      "address": {
+        "street": "E. Trinidad",
+        "house number": "138",
+        "city": "Bay",
+        "province": "Laguna",
+        "zipcode": "4033"
+      }
+    }
+]

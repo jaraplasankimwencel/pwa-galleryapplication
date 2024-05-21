@@ -1,0 +1,32 @@
+{
+  "name": "Welcome to Gallery Application",
+  "short_name": "Gallery Application - PWA",
+  "icons": [{
+    "src": "pictures/gallery-60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any maskable"
+      
+    }, {
+      "src": "pictures/gallery-90.png",
+      "sizes": "90x90",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "pictures/gallery-100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+    , {
+      "src": "pictures/gallery-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}

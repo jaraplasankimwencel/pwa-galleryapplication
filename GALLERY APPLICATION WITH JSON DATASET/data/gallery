@@ -1,0 +1,72 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "Monkey D. Luffy",
+    "url": "/images/index-img/luffy.jpg",
+    "thumbnailUrl": "/images/index-img/luffy.jpg"
+  },
+  {
+    "albumId": 2,
+    "id": 2,
+    "title": "Roronoa Zoro",
+    "url": "/images/index-img/zoro.jpg",
+    "thumbnailUrl": "/images/index-img/zoro.jpg"
+  },
+  {
+    "albumId": 3,
+    "id": 3,
+    "title": "Nami",
+    "url": "/images/index-img/nami.jpg",
+    "thumbnailUrl": "/images/index-img/nami.jpg"
+  },
+  {
+    "albumId": 4,
+    "id": 4,
+    "title": "Usopp",
+    "url": "/images/index-img/usopp.jpg",
+    "thumbnailUrl": "/images/index-img/usopp.jpg"
+  },
+  {
+    "albumId": 5,
+    "id": 5,
+    "title": "Vinsmoke Sanji",
+    "url": "/images/index-img/sanji.jpg",
+    "thumbnailUrl": "/images/index-img/sanji.jpg"
+  },
+  {
+    "albumId": 6,
+    "id": 6,
+    "title": "Tony Tony Chopper",
+    "url": "/images/index-img/chopper.jpg",
+    "thumbnailUrl": "/images/index-img/chopper.jpg"
+  },
+  {
+    "albumId": 7,
+    "id": 7,
+    "title": "Nico Robin",
+    "url": "/images/index-img/robin.jpg",
+    "thumbnailUrl": "/images/index-img/robin.jpg"
+  },
+  {
+    "albumId": 8,
+    "id": 8,
+    "title": "Franky",
+    "url": "/images/index-img/franky.jpg",
+    "thumbnailUrl": "/images/index-img/franky.jpg"
+  },
+  {
+    "albumId": 9,
+    "id": 9,
+    "title": "Brook",
+    "url": "/images/index-img/brook.jpg",
+    "thumbnailUrl": "/images/index-img/brook.jpg"
+  },
+  {
+    "albumId": 10,
+    "id": 10,
+    "title": "Jinbe",
+    "url": "/images/index-img/jinbe.jpg",
+    "thumbnailUrl": "/images/index-img/jinbe.jpg"
+  }
+]

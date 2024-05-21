@@ -1,0 +1,53 @@
+/* Base styles */
+body {
+    padding-top: 56px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Navbar styles */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+}
+
+/* Container styles */
+.container {
+    margin-top: 20px;
+}
+
+/* Home tab styles */
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1rem;
+}
+
+/* Gallery tab styles */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-text {
+    text-align: center;
+    font-size: 1rem;
+}
+
+/* About tab styles */
+#content h2 {
+    margin-top: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#content p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    line-height: 1.5;
+}
